@@ -1,0 +1,15 @@
+*,html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(28, 176, 104);
+}
+
+.container .items{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
